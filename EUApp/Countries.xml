@@ -1,0 +1,25 @@
+<object-stream>
+  <list>
+    <Country>
+      <name>ireland</name>
+      <meps>
+        <Mep>
+          <euCountries/>
+          <MEPName>jasonpower</MEPName>
+          <MEPEmail>invalid format email</MEPEmail>
+          <MEPPhone>unknown</MEPPhone>
+          <MEPParty>
+            <partyName>jasons party</partyName>
+            <partyLeader>jason</partyLeader>
+            <partyGenre>LEFT</partyGenre>
+            <numLocalReps>4</numLocalReps>
+          </MEPParty>
+          <partyLists>
+            <parties/>
+          </partyLists>
+        </Mep>
+      </meps>
+      <noMEPs>5</noMEPs>
+    </Country>
+  </list>
+</object-stream>
